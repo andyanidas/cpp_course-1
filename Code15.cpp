@@ -10,7 +10,7 @@ int main(){
 	if(0==a%2){
 		cout<<a<<" is even";
 	}
-	else if(0==a%1){
+	else{
 		cout<<a<<" is odd";
 	}
 	
